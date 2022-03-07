@@ -1,1 +1,0 @@
-https://github.com/Heytec/JULY_COHORT/blob/master/lesson13(Machine%20Learning%20Pipeline)/ML%20Pipeline.ipynb
