@@ -1,2 +1,2 @@
 # Africa Data School.
-Assignmensts
+Assignments
