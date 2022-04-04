@@ -1,0 +1,6 @@
+"streamlit"
+"pandas"
+"joblib"
+"PIL"
+"plotly.express"
+"plotly.graph_objects"
